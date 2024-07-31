@@ -1,0 +1,7 @@
+﻿FullApi.http
+lauchSettings.json
+.vs
+bin/
+obj/
+FullApi.csproj.user
+appsettings.Development.json
